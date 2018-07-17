@@ -7,3 +7,9 @@
 [submodule "Anakin"]
 	path = Anakin
 	url = https://github.com/ZLDL/Anakin.git
+[submodule "ncnn"]
+	path = ncnn
+	url = https://github.com/ZLDL/ncnn.git
+[submodule "tensorflow"]
+	path = tensorflow
+	url = https://github.com/ZLDL/tensorflow.git
