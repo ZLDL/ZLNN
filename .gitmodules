@@ -1,6 +1,6 @@
 [submodule "pytorch"]
 	path = pytorch
 	url = https://github.com/ZLDL/pytorch.git
-[submodule "Anakin"]
-	path = Anakin
-	url = https://github.com/ZLDL/Anakin.git
+[submodule "mace"]
+	path = mace
+	url = https://github.com/ZLDL/mace.git
