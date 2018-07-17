@@ -4,3 +4,6 @@
 [submodule "mace"]
 	path = mace
 	url = https://github.com/ZLDL/mace.git
+[submodule "Anakin"]
+	path = Anakin
+	url = https://github.com/ZLDL/Anakin.git
