@@ -13,3 +13,6 @@
 [submodule "tensorflow"]
 	path = tensorflow
 	url = https://github.com/ZLDL/tensorflow.git
+[submodule "caffe"]
+	path = caffe
+	url = https://github.com/ZLDL/caffe.git
